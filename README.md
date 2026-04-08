@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_isi.jpg" height="60" alt="ISI"/>
+</p>
+
 # 📐 Cours Analyse — Merise & UML — ISI
 
 > **Formateur :** Robert | **Établissement :** ISI (Institut Supérieur d'Informatique)
