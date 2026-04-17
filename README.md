@@ -31,7 +31,6 @@ Ce dépôt couvre la méthodologie d'analyse et de modélisation des systèmes d
 | [TP 1](exercices/TP%201%20FC.pdf) | Premier travail pratique |
 | [TP DAF Merise](exercices/TPDAF_merise.pdf) | TP Merise DAF |
 | [Exercice 1](exercices/exercice_1.pdf) | Premier exercice de modélisation |
-| [Série Use Case UML](exercices/serie1_usecase.md) | Diagrammes de cas d'utilisation |
 
 ---
 
